@@ -1,0 +1,35 @@
+.intro { 
+    font-family:Cambria;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 60px 20vw;
+    text-align: center;
+}
+
+body { 
+    background-color:#e0e6ed
+
+}
+
+h1 {
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.first {
+    margin-bottom: 30px; /* this creates a gap between the two paragraphs */
+
+}
+
+.second {
+    margin: 20px 0 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #000000;
+}
+
+img {
+    margin-top: 5px;       
+    max-width: 100%;        
+    height: auto;
+    border-radius: 30px;
+}
